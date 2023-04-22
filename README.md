@@ -46,4 +46,13 @@ df4=df.copy()
 pd.get_dummies(df4,columns=["Sex"])
 ```
 
-# OUPUT
+# OUTPUT
+![output](t.png)
+![output](t2.png)
+![output](t3.png)
+![output](t4.png)
+![output](t5.png)
+![output](t6.png)
+![output](t7.png)
+## RESULT
+the program run sucessfully
